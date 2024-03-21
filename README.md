@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on Service Based Websites
-- 📫 How to reach me -> dhiru@alljobguider.in
+- 📫 How to reach me -> [@mail](dhiru@alljobguider.in)
 - 😄 Pronouns: Dhiru
 - ⚡ Fun fact: I love programming more than myself
 
