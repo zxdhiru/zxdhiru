@@ -122,8 +122,8 @@ Other tools that make my workflow smooth and efficient.
   <a href="https://www.linkedin.com/in/zxdhiru" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/zxdhiru" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
   <a href="https://twitter.com/zxdhiru" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
-  <a href="https://facebook/zxdhiruofficial" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@zxdhiru" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
+  <a href="https://facebook/zxdhiru" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@dhiru_" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
   <a href="https://www.patreon.com/zxdhiru" target="_blank"><img alt="Patreon" src="https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white" /></a>
   <a href="https://zxdhiru.quora.com" target="_blank"><img alt="Quora" src="https://img.shields.io/badge/Quora-B92B27?logo=quora&logoColor=white" /></a>
   <a href="https://zxdhiru.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white" /></a>
