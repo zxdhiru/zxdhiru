@@ -1,3 +1,37 @@
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Dhiu</h1>
+
+<div align=center>
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student;Full+Stack+Developer;Open-Source+Enthusiast;Web+Designer" alt="Headline" />
+</div>
+
+<br/>
+## 💬 Connect with Me on Social Media
+
+<p>
+  <a href="https://www.instagram.com/zxdhiru" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/zxdhiru" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.github.com/zxdhiru" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
+  <a href="https://www.x.com/zxdhiru" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white" /></a>
+  <a href="https://www.facebook.com/zxdhiru" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@dhiru_" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
+  <a href="https://www.patreon.com/zxdhiru" target="_blank"><img alt="Patreon" src="https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white" /></a>
+  <a href="https://zxdhiru.quora.com" target="_blank"><img alt="Quora" src="https://img.shields.io/badge/Quora-B92B27?logo=quora&logoColor=white" /></a>
+  <a href="https://zxdhiru.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white" /></a>
+  <a href="https://in.pinterest.com/zxdhiru/" target="_blank"><img alt="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" /></a>
+<!--   <a href="https://www.instagram.com/zxdhiru" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white" /></a> -->
+<!--   <a href="https://www.instagram.com/zxdhiru" target="_blank"><img alt="Threads" src="https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=white" /></a> -->
+</p>
+<h2 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align="center">&nbsp; GitHub Stats:</h2>
+</br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zxdhiru&label=Profile%20views&color=green&style=flat" alt="zxdhiru" /> </p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zxdhiru&show_icons=true&locale=en&layout=compact&theme=dark" alt="zxdhiru" />
+
+<!--<img src="https://github-readme-stats.vercel.app/api?username=zxdhiru&show_icons=true&locale=&theme=dark" alt="zxdhiru" width="400"  /> -->
+
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=zxdhiru&theme=dark" alt="zxdhiru " /></p> -->
+
+
 # My Tech Stack & Tools
 
 Welcome to my tech stack! Here's an overview of the languages, frameworks, tools, and platforms I use to create and deploy awesome projects.
@@ -115,19 +149,5 @@ Other tools that make my workflow smooth and efficient.
 
 ---
 
-## 💬 Connect with Me on Social Media
 
-<p>
-  <a href="https://www.instagram.com/zxdhiru" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/zxdhiru" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.github.com/zxdhiru" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
-  <a href="https://www.x.com/zxdhiru" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white" /></a>
-  <a href="https://www.facebook.com/zxdhiru" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@dhiru_" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
-  <a href="https://www.patreon.com/zxdhiru" target="_blank"><img alt="Patreon" src="https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white" /></a>
-  <a href="https://zxdhiru.quora.com" target="_blank"><img alt="Quora" src="https://img.shields.io/badge/Quora-B92B27?logo=quora&logoColor=white" /></a>
-  <a href="https://zxdhiru.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white" /></a>
-  <a href="https://in.pinterest.com/zxdhiru/" target="_blank"><img alt="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" /></a>
-<!--   <a href="https://www.instagram.com/zxdhiru" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white" /></a> -->
-<!--   <a href="https://www.instagram.com/zxdhiru" target="_blank"><img alt="Threads" src="https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=white" /></a> -->
-</p>
+<h3 align="center"> Show some ❤️ to my repos! </h3>
