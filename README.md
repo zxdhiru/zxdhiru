@@ -25,9 +25,8 @@
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zxdhiru&label=Profile%20views&color=green&style=flat" alt="zxdhiru" /> </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zxdhiru&show_icons=true&locale=en&layout=compact&theme=dark" alt="zxdhiru" />
-
-<!--<img src="https://github-readme-stats.vercel.app/api?username=zxdhiru&show_icons=true&locale=&theme=dark" alt="zxdhiru" width="400"  /> -->
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zxdhiru&show_icons=true&locale=en&theme=dark" alt="zxdhiru" />-->
+<p><img src="https://github-readme-stats.vercel.app/api?username=zxdhiru&show_icons=true&locale=&theme=dark&layout=compac" alt="zxdhiru" width="400"  /></p>
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=zxdhiru&theme=dark" alt="zxdhiru " /></p> -->
 
